@@ -10,10 +10,10 @@ Backend service for the HROne attendance system, built with FastAPI and MongoDB.
    MONGO_URI=mongodb://localhost:27017
    MONGO_DB=attendance_db
 
-1. Install Dependencies
+3. Install Dependencies
 * pip install -r requirements.txt
 
-2. Start the Server
+4. Start the Server
 * uvicorn app.main:app --port 8000
 
 ## Notes for the Reviewer
