@@ -1,0 +1,12 @@
+# Environments and Secrets
+.env
+.venv/
+
+# Python Cache
+app/__pycache__/
+
+# Assignment provided files (not required for submission)
+sample_data/
+sample_seed.py
+DATA_MODEL.md
+openapi.yaml
